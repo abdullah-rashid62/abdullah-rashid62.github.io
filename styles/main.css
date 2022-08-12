@@ -173,11 +173,11 @@ h1,
 
 .facebook::before {
   font-family: "Font Awesome 5 Brands";
-  content: "\f16d"; }
+  content: "\f09a"; }
 
 .instagram::before {
   font-family: "Font Awesome 5 Brands";
-  content: "\f09a"; }
+  content: "\f16d"; }
 
 .LinkedIn:hover{
   color: white;
